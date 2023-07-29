@@ -5,7 +5,7 @@ Backend for the mentors app. Learning some python and Flask while we're at it.
 
 # Running on local
 
-In the project's root directory run `make install` to install dependencies.
+In the project's root directory run these commands
 
 ```
 # create virtual environment
