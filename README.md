@@ -1,7 +1,7 @@
 
 # Mentors
 
-Backend for the mentors app. Learning some python and Flask while we're at it.
+Backend for the Mentors app written using Python / Flask. Connects to a postgresql database.
 
 # Running on local
 
@@ -13,7 +13,7 @@ python3 -m venv .venv
 . .venv/bin/activate
 
 # install dependencies with pip
-make install
+pip install -r requirements.txt
 
 # run dev server
 flask --app app run
