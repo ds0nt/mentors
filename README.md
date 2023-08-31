@@ -1,7 +1,7 @@
 
 # Mentors
 
-Backend for the Mentors app written using Python / Flask. Connects to a postgresql database.
+Backend for the Mentors app written using Python / Flask. Connects to a postgresql database. Has some migration logic and a mentors model for now.
 
 # Running on local
 
